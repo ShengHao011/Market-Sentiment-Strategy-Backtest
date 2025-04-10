@@ -1,1 +1,1 @@
-Market Sentiment referes to the overall attitude/perspectives of investors on stocks and the overall market. This strategy utilizes market sentiment indicators to generate buy signals on the SPY ETF, which is meant to track the S&P 500 Index.
+Market Sentiment refers to the overall attitude/perspectives of investors on stocks and the overall market. This strategy utilizes market sentiment indicators to generate buy signals on the SPY ETF, which is meant to track the S&P 500 Index.
